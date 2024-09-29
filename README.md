@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+姓名: 周安
+目前就讀於: 國立中山大學資訊工程學系大四
