@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-姓名: Ann, 目前就讀於: 國立中山大學資訊工程學系大四  
+姓名: Ann
